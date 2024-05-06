@@ -1,13 +1,5 @@
-fig:nice-fig
-tab:nice-tab
-prerequisites
-intro
-literature
-methods
-math-example
-applications
-example-one
-example-two
-final-words
 propuesta-para-realizar-el-pronóstico-de-contaminantes-del-aire-pm2.5-y-co
 documento-bookdown---propuesta-avance-2
+actividad-1
+actividad-1-propuesta-para-realizar-el-pronóstico-de-contaminantes-del-aire-pm2.5-y-co
+actividad-2---propuesta-avance-2
