@@ -1,2 +1,2 @@
-# ACTIVIDADES-SERIES-DE-TIEMPO
-ASIGNATURA SERIES DE TIEMPO MAESTRIA CIENCIA DE DATOS
+# Documento-Bookdown-Propuesta-Series-de-Tiempo
+Propuesta para realizar el Pronóstico de contaminantes del aire; PM2.5 y CO
